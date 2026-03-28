@@ -1,4 +1,4 @@
-# Hi there, I'm [Aapka Naam] 👋
+# Hi there, I'm Muskan Mushtaq 👋
 ### Full-Stack Developer | Software House Founder | .NET & PHP Specialist
 
 <p align="left">
@@ -55,10 +55,16 @@ I am a passionate **Full-Stack Software Developer** with a focus on building sca
 ---
 
 ## 🌟 Top Projects:
-- **🛒 ClothNova:** A modern e-commerce solution built with PHP.
+- **Courier Management system:** A modern courier solution built with PHP.
 - **🚌 Digital Bus Reservation:** Efficient seat booking system using .NET.
 - **🤝 Local Services Marketplace:** Connecting service providers with customers.
-
+- - **🛒 ClothNova:** A modern e-commerce solution built with PHP.
+---
+## 🛠 Tech Stack:
+- **Primary:** .NET 8/6, ASP.NET Core MVC, Entity Framework, C#
+- **Secondary:** PHP, Laravel, Core PHP
+- **Databases:** SQL Server (Expert), MySQL
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
 ---
 
 <p align="center">
