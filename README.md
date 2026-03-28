@@ -52,11 +52,13 @@ I am a results-driven **Full-Stack Developer** with expertise in building robust
 
 ---
 
-## 📊 GitHub Stats:
+---
+
+## 📊 My Activity & Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan2006955-dotcom&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan2006955-dotcom&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan2006955-dotcom&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan2006955-dotcom&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
