@@ -1,71 +1,76 @@
-# Hi there, I'm Muskan 👋 
-### Full-Stack Developer | .NET Core & PHP Specialist
+# Hi there, I'm Muskan 👋
+### Full-Stack Developer | ASP.NET Core & PHP Specialist
 
 <p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img src="https://komarev.com/ghpvc/?username=muskan2006955-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-## 🚀 About Me
-I am a dedicated **Full-Stack Developer** with a strong command over the **.NET ecosystem** and **PHP web development**. I love building efficient, scalable, and user-friendly applications. I am currently looking for opportunities to contribute my technical skills to professional teams.
+## 💫 About Me:
+I am a results-driven **Full-Stack Developer** with expertise in building robust web applications. My primary focus is on the **.NET Ecosystem**, but I am also highly proficient in **PHP/Laravel**. I enjoy solving complex problems and am currently looking for a professional role where I can contribute to high-impact projects.
 
-- 🔭 **Current Focus:** Enhancing my skills in ASP.NET Core Web APIs and Microservices.
-- ⚡ **Expertise:** MVC Architecture, Entity Framework, Database Management (SQL Server/MySQL).
-- 🎓 **Background:** Actively developing real-world projects like Bus Reservation Systems and E-commerce platforms.
-- 📫 **Reach me at:** [muskan2006955@gmail.com](mailto:muskan2006955@gmail.com)
-
----
-
-## 🛠 My Tech Stack
-
-### Backend Development
-- **Expertise:** .NET 8/6, ASP.NET MVC, C#, Core PHP, Laravel.
-- **Database:** Microsoft SQL Server, MySQL.
-
-### Frontend Development
-- **Tools:** HTML5, CSS3, JavaScript, Bootstrap 5.
-
-### Version Control & Tools
-- **DevOps:** Git, GitHub, VS Code, Visual Studio 2022.
+- 🔭 I’m currently focused on **Enterprise-level .NET Applications**.
+- 🌱 I’m deepening my knowledge in **Web API Security & Microservices**.
+- 👯 I’m open to collaborating on **Open Source .NET/PHP Projects**.
+- 💬 Ask me about **Entity Framework, MVC Architecture, or SQL Optimization**.
+- 📫 Reach me at: **muskan2006955@gmail.com**
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚌 Digital Bus Reservation System (.NET)
-*A robust system for managing seat bookings and schedules.*
-- **Tech:** ASP.NET Core, C#, SQL Server.
-- **Key Feature:** Real-time seat availability and user-friendly dashboard.
-
-### 🛒 ClothNova E-Commerce (PHP)
-*A complete online shopping experience.*
-- **Tech:** Core PHP, MySQL, Bootstrap.
-- **Key Feature:** Product catalog, shopping cart, and secure checkout logic.
-
-### 🤝 Local Services Marketplace
-*Connecting community service providers with customers.*
-- **Tech:** PHP, MySQL.
+## 🛠 Tech Stack:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="40" height="40" alt="dotnet" />
+      <br><span>.NET Core</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="csharp" />
+      <br><span>C#</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
+      <br><span>PHP</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="laravel" />
+      <br><span>Laravel</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="mysql" />
+      <br><span>MySQL</span>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      <br><span>Bootstrap</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan2006955-dotcom&show_icons=true&theme=dark&hide_border=true" alt="Muskan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan2006955-dotcom&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan2006955-dotcom&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan2006955-dotcom&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+## 🌟 Top Projects:
+- **🚌 Digital Bus Reservation:** A comprehensive seat booking system built with **ASP.NET Core & SQL Server**.
+- **🛒 ClothNova:** A modern E-Commerce platform developed using **Core PHP & MySQL**.
+- **🤝 Local Services Marketplace:** A functional web solution for connecting service providers with customers.
 
 ---
 
 <p align="center">
-  <b>Let's connect!</b><br>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
