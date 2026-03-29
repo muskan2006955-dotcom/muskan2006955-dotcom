@@ -66,7 +66,7 @@ I am a results-driven **Full-Stack Developer** with expertise in building robust
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+  <a href="https://www.linkedin.com/in/muskan-mushtaq/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
